@@ -1,0 +1,1259 @@
+<service-areas>
+    <version>1</version>
+    <service-area>
+        <service-area-ext>Housing</service-area-ext>
+        <service-area-int>Housing</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Rent</section-ext>
+                <section-int>Rent</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Struggling to pay</reason-ext>
+                        <reason-int>Strugglingtopay</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Respond to recovery letter</reason-ext>
+                        <reason-int>Respondtorecoveryletter</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Change payment method</reason-ext>
+                        <reason-int>Changepaymentmethod</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Request Refund</reason-ext>
+                        <reason-int>RequestRefund</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Rent Free Weeks</reason-ext>
+                        <reason-int>RentFreeWeeks</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Housing Options</section-ext>
+                <section-int>HousingOptions</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Apply For Housing</reason-ext>
+                        <reason-int>Applyforhousing</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Bidding for properties</reason-ext>
+                        <reason-int>Biddingforproperties</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Shared Ownership enquiry</reason-ext>
+                        <reason-int>SharedOwnershipenquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Mutual exchange</reason-ext>
+                        <reason-int>Mutualexchange</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Deposit Bond Scheme</reason-ext>
+                        <reason-int>DepositBondScheme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Mortgage Rescue</reason-ext>
+                        <reason-int>MortgageRescue</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Repairs</section-ext>
+                <section-int>Repairs</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Request a Repair</reason-ext>
+                        <reason-int>RequestaRepair</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Chase Up a Repair</reason-ext>
+                        <reason-int>ChaseUpaRepair</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Council Tax and Benefits</service-area-ext>
+        <service-area-int>CouncilTaxandBenefits</service-area-int>
+        <section>
+            <section-ext>Council Tax</section-ext>
+            <section-int>CouncilTax</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Change Address</reason-ext>
+                    <reason-int>ChangingAddress</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Single Person Discount</reason-ext>
+                    <reason-int>RequestSinglePersonDiscount</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Query Summons</reason-ext>
+                    <reason-int>QuerySummons</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Query Final Notice</reason-ext>
+                    <reason-int>QueryFinalNotice</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Query Reminder</reason-ext>
+                    <reason-int>QueryReminder</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Query Bill</reason-ext>
+                    <reason-int>QueryBill</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Chasing Earlier Contact</reason-ext>
+                    <reason-int>ChasingResponseToAnEarlierEnquiry</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Set Up A Direct Debit</reason-ext>
+                    <reason-int>SetUpADirectDebit</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Struggling to Pay</reason-ext>
+                    <reason-int>StrugglingtoPay</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other Discount/Exemptions</reason-ext>
+                    <reason-int>OtherDiscountExemptionEnquiry</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Council Tax Benefit</section-ext>
+            <section-int>CouncilTaxBenefit</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Chasing Claim Progress</reason-ext>
+                    <reason-int>ChasingClaimProgress</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Second Adult Rebate</reason-ext>
+                    <reason-int>SecondAdultRebate</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Backdate Enquiry</reason-ext>
+                    <reason-int>BackdateEnquiry</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Overlap of Benefits</reason-ext>
+                    <reason-int>OverlapofBenefits</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>How to Make a Claim</reason-ext>
+                    <reason-int>HowtoMakeaClaim</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>How Much Could I Get</reason-ext>
+                    <reason-int>HowMuchCouldIBeEntitledTo</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Change of Circumstances</reason-ext>
+                    <reason-int>NotifyChangeofCircumstances</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Request an Appointment</reason-ext>
+                    <reason-int>RequestanAppointment</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Housing Benefit</section-ext>
+            <section-int>HousingBenefit</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Local Housing Allowance Rates</reason-ext>
+                    <reason-int>WhataretheLocalHousingAllowanceRates</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Payment Enquiry</reason-ext>
+                    <reason-int>PaymentEnquiry</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Chasing Claim Progress</reason-ext>
+                    <reason-int>ChasingClaimProgress</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Backdate Enquiry</reason-ext>
+                    <reason-int>BackdateEnquiry</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Overlap of Benefits</reason-ext>
+                    <reason-int>OverlapofBenefits</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>How to Make a Claim</reason-ext>
+                    <reason-int>HowtoMakeaClaim</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>How Much Could I Get</reason-ext>
+                    <reason-int>HowMuchCouldIBeEntitledTo</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Change of Circumstances</reason-ext>
+                    <reason-int>NotifyChangeofCircumstances</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Request an Appointment</reason-ext>
+                    <reason-int>RequestanAppointment</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Fraud</section-ext>
+            <section-int>Fraud</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Report Fraud</reason-ext>
+                    <reason-int>ReportFraud</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Update us on a fraud</reason-ext>
+                    <reason-int>Updateusonafraudyouhavealreadyreported</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+    </service-area>
+    <service-area>
+        <service-area-ext>Environmental Services</service-area-ext>
+        <service-area-int>WateRecyclingandtheEnvironment</service-area-int>
+        <section>
+            <section-ext>Allotments</section-ext>
+            <section-int>Allotments</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Obtaining an allotment</reason-ext>
+                    <reason-int>Obtaininganallotment</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Give up an allotment</reason-ext>
+                    <reason-int>Giveupanallotment</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Environmental Health</section-ext>
+            <section-int>EnvironmentalHealth</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Report an issue with noise</reason-ext>
+                    <reason-int>Reportanissuewithnoise</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Asbestos</reason-ext>
+                    <reason-int>Asbestos</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Smoke controlled areas</reason-ext>
+                    <reason-int>Smokecontrolledareas</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Anti Social Behaviour</reason-ext>
+                    <reason-int>AntiSocialBehaviour</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Food Hygiene</reason-ext>
+                    <reason-int>FoodHygiene</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Rats</reason-ext>
+                    <reason-int>Rats</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Bins out too early</reason-ext>
+                    <reason-int>Binsouttooearly</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Dog Fouling</reason-ext>
+                    <reason-int>DogFouling</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Stray Dogs</reason-ext>
+                    <reason-int>StrayDogs</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Smells from sewers</reason-ext>
+                    <reason-int>Smellsfromsewers</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Drainage problems</reason-ext>
+                    <reason-int>Drainageproblems</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>My Bin Collection</section-ext>
+            <section-int>MyBinCollection</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Report a missed collection</reason-ext>
+                    <reason-int>Reportamissedcollection</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>What is my collection date?</reason-ext>
+                    <reason-int>Whatismycollectiondate</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>New bin or box</reason-ext>
+                    <reason-int>Requestaneworreplacementbinorbox</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Bulky waste collection</reason-ext>
+                    <reason-int>Requestabulkywastecollection</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Sharps collections</reason-ext>
+                    <reason-int>Sharpscollections</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Clinical waste</reason-ext>
+                    <reason-int>Clinicalwaste</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Street Care</section-ext>
+            <section-int>StreetCare</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Report Graffitti</reason-ext>
+                    <reason-int>ReportGraffitti</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Report Fly Tipping</reason-ext>
+                    <reason-int>ReportFlyTipping</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Grounds Maintenance</reason-ext>
+                    <reason-int>GroundsMaintenance</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Street cleansing request</reason-ext>
+                    <reason-int>Streetcleansingrequest</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+        <section>
+            <section-ext>Tree Protection Orders</section-ext>
+            <section-int>TreeProtectionOrders</section-int>
+            <reasons>
+                <reason>
+                    <reason-ext>Tree Enquiry</reason-ext>
+                    <reason-int>Findoutifatreeisprotected</reason-int>
+                </reason>
+                <reason>
+                    <reason-ext>Other</reason-ext>
+                    <reason-int>Other</reason-int>
+                </reason>
+            </reasons>
+        </section>
+    </service-area>
+    <service-area>
+        <service-area-ext>Places of Interest</service-area-ext>
+        <service-area-int>PlacesofInterest</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Leisure Centres</section-ext>
+                <section-int>LeisureCentres</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Trilogy Memebership</reason-ext>
+                        <reason-int>TrilogyMemebershipEnquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Whats on at Mounts Baths</reason-ext>
+                        <reason-int>WhatsonatMountsBathsLeisureCentre</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Whats on at Danes Camp</reason-ext>
+                        <reason-int>WhatsonatDanesCampLeisureCentre</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Whats on at Lings Forum</reason-ext>
+                        <reason-int>WhatsonatLingsForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Films at Lings Forum</reason-ext>
+                        <reason-int>WhatfilmsareshowingatLingsForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Opening times</reason-ext>
+                        <reason-int>Whataretheopeningtimes</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Museums</section-ext>
+                <section-int>Museums</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Book an education visit</reason-ext>
+                        <reason-int>Bookaschoolvisitorteachingsession</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Book a function room</reason-ext>
+                        <reason-int>Bookafunctionroom</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Marketing or Press</reason-ext>
+                        <reason-int>MakeaMarketingorPressEnquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Holding an event</reason-ext>
+                        <reason-int>Makeanenquiryaboutholdinganevent</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Having an exhibition</reason-ext>
+                        <reason-int>Enquireabouthavinganexhibition</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Offer a donation or bequest</reason-ext>
+                        <reason-int>Offeradonationorbequest</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Shoes</reason-ext>
+                        <reason-int>MakeaShoecollectionenquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Art</reason-ext>
+                        <reason-int>MakeaArtcollectionenquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Archaeology or Military</reason-ext>
+                        <reason-int>MakeaArchaeologyMilitaryorGeologycollectionenquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Local History or Costumes</reason-ext>
+                        <reason-int>MakeaLocalHistoryorCostumecollectionenquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Makeageneralotherenquiry</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>The Guildhall</section-ext>
+                <section-int>TheGuildhall</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Book a room</reason-ext>
+                        <reason-int>Bookaroom</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Weddings at the Guildhall</reason-ext>
+                        <reason-int>WeddingsattheGuildhall</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Building information</reason-ext>
+                        <reason-int>Requestforbuildinginformation</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Permissions to take photos</reason-ext>
+                        <reason-int>Requestpermissionstotakephotos</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Town Market</section-ext>
+                <section-int>TownMarket</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Stall Enquiries</reason-ext>
+                        <reason-int>StallEnquiries</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Event Enquiries</reason-ext>
+                        <reason-int>EventEnquiries</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Planning</service-area-ext>
+        <service-area-int>Planning</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Policy and Heritage</section-ext>
+                <section-int>PolicyHeritage</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Listed building</reason-ext>
+                        <reason-int>Informationonalistedbuilding</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Conservation areas</reason-ext>
+                        <reason-int>Informationonconservationareas</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Regeneration</section-ext>
+                <section-int>Regeneration</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Projects</reason-ext>
+                        <reason-int>Informationonregenarationprojectsinthetown</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Asset Management</section-ext>
+                <section-int>AssetManagement</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Find Properties to let</reason-ext>
+                        <reason-int>FindPropertiestolet</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Find properties for sale</reason-ext>
+                        <reason-int>Findpropertiesforsale</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Building Control</section-ext>
+                <section-int>BuildingControl</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Exemptions</reason-ext>
+                        <reason-int>Whatbuildingsandworkareexemptfrombuildingregulations</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Notifications</reason-ext>
+                        <reason-int>Whatworkdoesnotneedtobenotifiedtobuildingcontrol</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Building Notice</reason-ext>
+                        <reason-int>ProvideaBuildingNotice</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Full plans application</reason-ext>
+                        <reason-int>ProvideaFullplansapplication</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>How much will it cost?</reason-ext>
+                        <reason-int>Howmuchwillitcost</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Planning Applications</section-ext>
+                <section-int>PlanningApplications</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Submit an application</reason-ext>
+                        <reason-int>Submitaplanningapplication</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>View planning applications</reason-ext>
+                        <reason-int>Viewplanningapplications</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Appeal an application</reason-ext>
+                        <reason-int>Howtoappealarefusedapplication</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Responsibilty / Democracy</service-area-ext>
+        <service-area-int>CouncilResponsibiltyandDemocraticSolutions</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Budget</section-ext>
+                <section-int>Budget</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Comment on the budget</reason-ext>
+                        <reason-int>Commentonthebudget</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Consultations</section-ext>
+                <section-int>Consultations</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Join the Residents Panel</reason-ext>
+                        <reason-int>IwouldliketojointheResidentsPanel</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>DPA and FOI</section-ext>
+                <section-int>DPAFOI</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Data Protection Act</reason-ext>
+                        <reason-int>RequestInformationundertheDataProtectionAct</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Freedom of Information Act</reason-ext>
+                        <reason-int>RequestInformationundertheFreedomofInformationAct</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Chase a DPA request</reason-ext>
+                        <reason-int>ChaseaDataProtectionrequest</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Chase a FOI request</reason-ext>
+                        <reason-int>ChaseaFreedomofInformationrequest</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Electoral Registration</section-ext>
+                <section-int>ElectoralRegistration</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>How do I Register?</reason-ext>
+                        <reason-int>HowdoIRegister</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Moved to the town</reason-ext>
+                        <reason-int>IhavejustmovedtothetowncanIregister</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Apply for a postal vote</reason-ext>
+                        <reason-int>Applyforapostalvote</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Online registration</reason-ext>
+                        <reason-int>Theonlineregistrationformisnotworking</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Am I registered?</reason-ext>
+                        <reason-int>AmIregistred</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>I haven't got a poll card</reason-ext>
+                        <reason-int>Ihaventgotapollcard</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Where can I vote</reason-ext>
+                        <reason-int>WherecanIvote</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Form Query</reason-ext>
+                        <reason-int>WhyhaveIrecievedthisform</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Licensing</section-ext>
+                <section-int>Licensing</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Apply for a Taxi License</reason-ext>
+                        <reason-int>ApplyforaTaxiLicense</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Renew your Taxi License</reason-ext>
+                        <reason-int>RenewyourTaxiLicense</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Taxi Driver Complaint</reason-ext>
+                        <reason-int>ComplainaboutaTaxiDriver</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Apply for a Liquor License</reason-ext>
+                        <reason-int>ApplyforaLiquorLicense</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Overview and Scrutiny</section-ext>
+                <section-int>OverviewandScrutiny</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Meetings</reason-ext>
+                        <reason-int>HowcanIgetinvolvedinameeting</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Work programme items</reason-ext>
+                        <reason-int>PutforwardanItemfortheworkprogramme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Be a witness</reason-ext>
+                        <reason-int>Beawitness</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Be a co-opted member</reason-ext>
+                        <reason-int>Applytobeacooptedmember</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Policy</section-ext>
+                <section-int>Policy</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Equal opportunities</reason-ext>
+                        <reason-int>Requestequalopportunitiesinformation</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Procurement</section-ext>
+                <section-int>Procurement</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Express an interest</reason-ext>
+                        <reason-int>Expressaninterestinacontractopportunity</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Offer services</reason-ext>
+                        <reason-int>Provideinformationongoodsorservicesyouhavetooffer</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Mayoralty</section-ext>
+                <section-int>Mayoralty</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Book the Mayor</reason-ext>
+                        <reason-int>BooktheMayorforanevent</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Information on the Mayor</reason-ext>
+                        <reason-int>FurtherinformationontheMayor</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Your Community</service-area-ext>
+        <service-area-int>YourCommunity</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Community Centres</section-ext>
+                <section-int>CommunityCentres</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Book a Room</reason-ext>
+                        <reason-int>BookaRoom</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Cancel a Booking</reason-ext>
+                        <reason-int>CancelaBooking</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Room Specifications</reason-ext>
+                        <reason-int>RequestRoomSpecifications</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Report an Issue</reason-ext>
+                        <reason-int>ReportanIssuewiththeCentre</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Run a community centre</reason-ext>
+                        <reason-int>Expressaninterestinrunningacommunitycentre</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Community Engagment</section-ext>
+                <section-int>CommunityEngagment</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Equalities Officer</reason-ext>
+                        <reason-int>ContactLindseyAmbrose</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Grants</reason-ext>
+                        <reason-int>Grants</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Working with the Council</reason-ext>
+                        <reason-int>IwanttobeinvolvedinworkingwiththeCouncil</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Mystery shopping</reason-ext>
+                        <reason-int>Iwanttobeinvolvedinmysteryshopping</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Community Safety</section-ext>
+                <section-int>CommunitySafety</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Northampton's byelaws</reason-ext>
+                        <reason-int>InformationonNorthamptonsbyelaws</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>CCTV Enquiry</reason-ext>
+                        <reason-int>CCTVEnquiry</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Neighbourhood Wardens</section-ext>
+                <section-int>NeighbourhoodWardens</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Report an Issue</reason-ext>
+                        <reason-int>ReportanIssuetoyourwarden</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Warden's Remit</reason-ext>
+                        <reason-int>Whatcanthewardensdealwith</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Sports Development</section-ext>
+                <section-int>SportsandPlayDevelopment</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Book a place</reason-ext>
+                        <reason-int>Bookplaceonaprogramme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Request details</reason-ext>
+                        <reason-int>Furtherdetailsonaneventprogramme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Your Say</service-area-ext>
+        <service-area-int>YourSay</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Customer Feedback</section-ext>
+                <section-int>CustomerFeedback</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Comment</reason-ext>
+                        <reason-int>CommentonaserviceIreceived</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Compliment</reason-ext>
+                        <reason-int>Complimentaservice</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Complain</reason-ext>
+                        <reason-int>Complainaboutservicereceived</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Service Improvement</section-ext>
+                <section-int>ServiceImprovement</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Performance measures</reason-ext>
+                        <reason-int>HowdoestheCouncilmeasureperformance</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Latest report</reason-ext>
+                        <reason-int>Informationonthelatestreport</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Website Improvement</section-ext>
+                <section-int>WebsiteImprovement</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Missing information</reason-ext>
+                        <reason-int>Coudntfindwhatyouwerelookingfor</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Link not working</reason-ext>
+                        <reason-int>Linknotworking</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Page out of date</reason-ext>
+                        <reason-int>Pageoutofdate</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Fonts and colours</reason-ext>
+                        <reason-int>Fontsandcoloursnoteasytoread</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Forums</section-ext>
+                <section-int>Forums</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Join Womens</reason-ext>
+                        <reason-int>IwouldliketobepartoftheWomensForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Womens info</reason-ext>
+                        <reason-int>FurtherInformationontheWomensForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Join Disabled People's</reason-ext>
+                        <reason-int>IwouldliketobepartoftheDisabledPeoplesForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Disabled People's Info</reason-ext>
+                        <reason-int>IwouldlikemoreinformationontheDisabledPeoplesForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Join Pensioners</reason-ext>
+                        <reason-int>IwouldliketobepartofthePensionersForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Pensioners info</reason-ext>
+                        <reason-int>IwouldlikemoreinformationonthePensionersForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Join LGBT and Q</reason-ext>
+                        <reason-int>IwouldliketobepartoftheLGBTandQForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>LGBT and Q info</reason-ext>
+                        <reason-int>IwouldlikemoreinformationontheLGBTandQForum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Youth Services</service-area-ext>
+        <service-area-int>YouthServices</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Change of Scene</section-ext>
+                <section-int>ChangeofScene</section-int>
+                <resons>
+                    <reason>
+                        <reason-ext>Register</reason-ext>
+                        <reason-int>BookontoaChangeofSceneProgramme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Request info</reason-ext>
+                        <reason-int>FurtherinformationontheChangeofSceneprogramme</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </resons>
+            </section>
+            <section>
+                <section-ext>Youth Forum</section-ext>
+                <section-int>YouthForum</section-int>
+                <resons>
+                    <reason>
+                        <reason-ext>Join</reason-ext>
+                        <reason-int>HowcanIbepartoftheforum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Further information</reason-ext>
+                        <reason-int>Furtherinformationontheyouthforum</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </resons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>Specialist Services</service-area-ext>
+        <service-area-int>SpecialistServices</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Employment Help</section-ext>
+                <section-int>EmploymentHelp</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Job applications</reason-ext>
+                        <reason-int>Helpwithajobapplication</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Writing your CV</reason-ext>
+                        <reason-int>HelpwritingyourCV</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Interview techniques</reason-ext>
+                        <reason-int>Helpwithinterviewtechniques</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Life Line</section-ext>
+                <section-int>LifeLine</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Apply for a Lifeline</reason-ext>
+                        <reason-int>ApplyforaLifeline</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>How much does it cost</reason-ext>
+                        <reason-int>Howmuchdoesitcost</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Cancel Lifeline</reason-ext>
+                        <reason-int>CancelLifeline</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Cemeteries</section-ext>
+                <section-int>Cemeteries</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Types of graves</reason-ext>
+                        <reason-int>Whattypesofgravesareavailable</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Cemetery sections</reason-ext>
+                        <reason-int>Whatarethechoicesofcemeterysections</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Locations</reason-ext>
+                        <reason-int>Wherearecemeterieslocated</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Charter for the Bereaved</reason-ext>
+                        <reason-int>FurtherinformationoftheCharterfortheBereaved</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>Money advice</section-ext>
+                <section-int>Moneyadvice</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Request help with debt</reason-ext>
+                        <reason-int>Requesthelpwithdebt</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>How we can help</reason-ext>
+                        <reason-int>FurtherInformationonhowwecanhelp</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+    <service-area>
+        <service-area-ext>General Enquiries</service-area-ext>
+        <service-area-int>GeneralEnquiries</service-area-int>
+        <sections>
+            <section>
+                <section-ext>Citizens Account Support</section-ext>
+                <section-int>CitizensAccountSupport</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Replacement unlock code</reason-ext>
+                        <reason-int>Ihaventrecievedmyunlockcode</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>I have changed my e-mail address</reason-ext>
+                        <reason-int>Ihavechangedmyemailaddress</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Password Reset</reason-ext>
+                        <reason-int>Ihaveforgottenorwanttochangemypassword</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>I have moved house</reason-ext>
+                        <reason-int>Ihavemovedhouse</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>No bills are showing</reason-ext>
+                        <reason-int>NobillsareshowingwhenIlogin</reason-int>
+                    </reason>
+                    <reason>
+                        <reason-ext>Other</reason-ext>
+                        <reason-int>Other</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+            <section>
+                <section-ext>General Enquiry</section-ext>
+                <section-int>GeneralEnquiry</section-int>
+                <reasons>
+                    <reason>
+                        <reason-ext>Enquiry</reason-ext>
+                        <reason-int>Enquiry</reason-int>
+                    </reason>
+                </reasons>
+            </section>
+        </sections>
+    </service-area>
+</service-areas>

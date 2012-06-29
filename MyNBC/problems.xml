@@ -1,0 +1,83 @@
+<problems>
+    <version>1</version>
+    <problem>
+        <problem-description>Flytipped Black Bags</problem-description>
+        <problem-number>1</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Flytipped Sofa</problem-description>
+        <problem-number>2</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Flytipped Chair</problem-description>
+        <problem-number>3</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Flytipped Mattress</problem-description>
+        <problem-number>4</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Flytipped White Goods</problem-description>
+        <problem-number>5</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Flytipping</problem-description>
+        <problem-number>6</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Full Bin</problem-description>
+        <problem-number>7</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Dead Animal</problem-description>
+        <problem-number>8</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Detritus</problem-description>
+        <problem-number>9</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Dog Mess</problem-description>
+        <problem-number>10</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Broken Glass</problem-description>
+        <problem-number>11</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Leaves</problem-description>
+        <problem-number>12</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Litter</problem-description>
+        <problem-number>13</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Overgrown Weeds</problem-description>
+        <problem-number>14</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Refuse or Recyling Spillage</problem-description>
+        <problem-number>15</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Needles or Sharps</problem-description>
+        <problem-number>16</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Split Refuse Sacks</problem-description>
+        <problem-number>17</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Cleansing</problem-description>
+        <problem-number>18</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Offensive Graffiti</problem-description>
+        <problem-number>19</problem-number>
+    </problem>
+    <problem>
+        <problem-description>Inoffensive Graffiti</problem-description>
+        <problem-number>20</problem-number>
+    </problem>
+</problems>
